@@ -60,3 +60,6 @@ A menu with the following features:
 6. Search for an item by selling price range.
 7. View all articles.
 8. Exit
+
+
+![alt text](https://github.com/NunMimYa/TP_Stock/blob/main/DEMO.PNG)
