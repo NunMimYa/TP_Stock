@@ -2,6 +2,8 @@
 
 M2i : https://www.m2iformation.fr/actualite/formation-cda-cambrai-05102020/
 
+![alt text](https://github.com/NunMimYa/TP_Stock/blob/main/DEMO.PNG)
+
 Gestion d'un stock
 Développez une application de gestion de stock.
 Un article est caractérisé par son numéro de référence, son nom, son prix de vente et une quantité en stock.
@@ -60,6 +62,3 @@ A menu with the following features:
 6. Search for an item by selling price range.
 7. View all articles.
 8. Exit
-
-
-![alt text](https://github.com/NunMimYa/TP_Stock/blob/main/DEMO.PNG)
